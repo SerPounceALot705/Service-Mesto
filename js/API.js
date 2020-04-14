@@ -5,7 +5,7 @@ class Api {
       this.groupId = options.groupId;
       this.contentType = options.contentType;
       this.action = options.action;
-      this.baseUrl = `http://${this.ip}/${this.groupId}/${this.action}`;
+      this.baseUrl = `https://${this.ip}/${this.groupId}/${this.action}`;
       this.method = options.method;
     }
   

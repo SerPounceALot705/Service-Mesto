@@ -1,10 +1,10 @@
-@import url(./__content/popup__content.css);
-@import url(./__close/popup__close.css);
-@import url(./__title/popup__title.css);
-@import url(./__form/popup__form.css);
-@import url(./__input/popup__input.css);
-@import url(./__button/popup__button.css);
-@import url(./_is-opened/popup_is-opened.css);
+@import url(./content/popup__content.css);
+@import url(./close/popup__close.css);
+@import url(./title/popup__title.css);
+@import url(./form/popup__form.css);
+@import url(./input/popup__input.css);
+@import url(./button/popup__button.css);
+@import url(./is-opened/popup_is-opened.css);
 @import url(./popup-img.css);
 
 .popup {
